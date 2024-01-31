@@ -1,0 +1,12 @@
+C:\Users\win_10\source\repos\TLA_Library\TLA_Library\bin\Debug\net6.0\TLA_Library.deps.json
+C:\Users\win_10\source\repos\TLA_Library\TLA_Library\bin\Debug\net6.0\TLA_Library.dll
+C:\Users\win_10\source\repos\TLA_Library\TLA_Library\bin\Debug\net6.0\TLA_Library.pdb
+C:\Users\win_10\source\repos\TLA_Library\TLA_Library\obj\Debug\net6.0\TLA_Library.csproj.AssemblyReference.cache
+C:\Users\win_10\source\repos\TLA_Library\TLA_Library\obj\Debug\net6.0\TLA_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win_10\source\repos\TLA_Library\TLA_Library\obj\Debug\net6.0\TLA_Library.AssemblyInfoInputs.cache
+C:\Users\win_10\source\repos\TLA_Library\TLA_Library\obj\Debug\net6.0\TLA_Library.AssemblyInfo.cs
+C:\Users\win_10\source\repos\TLA_Library\TLA_Library\obj\Debug\net6.0\TLA_Library.csproj.CoreCompileInputs.cache
+C:\Users\win_10\source\repos\TLA_Library\TLA_Library\obj\Debug\net6.0\TLA_Library.dll
+C:\Users\win_10\source\repos\TLA_Library\TLA_Library\obj\Debug\net6.0\refint\TLA_Library.dll
+C:\Users\win_10\source\repos\TLA_Library\TLA_Library\obj\Debug\net6.0\TLA_Library.pdb
+C:\Users\win_10\source\repos\TLA_Library\TLA_Library\obj\Debug\net6.0\ref\TLA_Library.dll

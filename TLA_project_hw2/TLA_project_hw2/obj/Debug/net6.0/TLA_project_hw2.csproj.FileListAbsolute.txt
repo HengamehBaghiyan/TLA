@@ -1,0 +1,15 @@
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\bin\Debug\net6.0\TLA_project_hw2.exe
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\bin\Debug\net6.0\TLA_project_hw2.deps.json
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\bin\Debug\net6.0\TLA_project_hw2.runtimeconfig.json
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\bin\Debug\net6.0\TLA_project_hw2.dll
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\bin\Debug\net6.0\TLA_project_hw2.pdb
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\obj\Debug\net6.0\TLA_project_hw2.csproj.AssemblyReference.cache
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\obj\Debug\net6.0\TLA_project_hw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\obj\Debug\net6.0\TLA_project_hw2.AssemblyInfoInputs.cache
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\obj\Debug\net6.0\TLA_project_hw2.AssemblyInfo.cs
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\obj\Debug\net6.0\TLA_project_hw2.csproj.CoreCompileInputs.cache
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\obj\Debug\net6.0\TLA_project_hw2.dll
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\obj\Debug\net6.0\refint\TLA_project_hw2.dll
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\obj\Debug\net6.0\TLA_project_hw2.pdb
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\obj\Debug\net6.0\TLA_project_hw2.genruntimeconfig.cache
+C:\Users\win_10\source\repos\TLA_project_hw2\TLA_project_hw2\obj\Debug\net6.0\ref\TLA_project_hw2.dll

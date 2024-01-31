@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TLA_Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TLA_Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TLA_Library.dll": {}
+        }
+      },
+      "TLA_Phase1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TLA_Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TLA_Phase1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TLA_Phase1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TLA_Library/1.0.0": {
+      "type": "project",
+      "path": "../../TLA_Library/TLA_Library/TLA_Library.csproj",
+      "msbuildProject": "../../TLA_Library/TLA_Library/TLA_Library.csproj"
+    },
+    "TLA_Phase1/1.0.0": {
+      "type": "project",
+      "path": "../../TLA_Phase1/TLA_Phase1/TLA_Phase1.csproj",
+      "msbuildProject": "../../TLA_Phase1/TLA_Phase1/TLA_Phase1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TLA_Library >= 1.0.0",
+      "TLA_Phase1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\win_10\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\win_10\\source\\repos\\TLA_Phase3\\TLA_Phase3\\TLA_Phase3.csproj",
+      "projectName": "TLA_Phase3",
+      "projectPath": "C:\\Users\\win_10\\source\\repos\\TLA_Phase3\\TLA_Phase3\\TLA_Phase3.csproj",
+      "packagesPath": "C:\\Users\\win_10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\win_10\\source\\repos\\TLA_Phase3\\TLA_Phase3\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\win_10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\win_10\\source\\repos\\TLA_Library\\TLA_Library\\TLA_Library.csproj": {
+              "projectPath": "C:\\Users\\win_10\\source\\repos\\TLA_Library\\TLA_Library\\TLA_Library.csproj"
+            },
+            "C:\\Users\\win_10\\source\\repos\\TLA_Phase1\\TLA_Phase1\\TLA_Phase1.csproj": {
+              "projectPath": "C:\\Users\\win_10\\source\\repos\\TLA_Phase1\\TLA_Phase1\\TLA_Phase1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
